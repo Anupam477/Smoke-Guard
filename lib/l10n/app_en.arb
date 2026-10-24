@@ -1,0 +1,93 @@
+{
+  "@@locale": "en",
+  "appTitle": "SmokeGuard",
+  "appTagline": "Smart Smoke Exposure Monitoring",
+  "demoModeActive": "DEMO MODE",
+  "demoModeBanner": "Running in Demo Mode without physical hardware.",
+  "disclaimerMedical": "For environmental monitoring and awareness only. Not for medical diagnosis.",
+
+  "onboardingTitle1": "Monitor Your Environment",
+  "onboardingDesc1": "Real-time telemetry measuring PM2.5 particulate matter, smoke VOCs, temperature, and humidity around you.",
+  "onboardingTitle2": "Detect Possible Smoke Exposure",
+  "onboardingDesc2": "Rule-based and intelligent heuristic detection for probable tobacco smoke and harmful airborne aerosols.",
+  "onboardingTitle3": "Get Smart Alerts",
+  "onboardingDesc3": "Instant proactive alerts via push notifications, smartwatch vibration, and voice alerts in English & Hindi.",
+  "onboardingTitle4": "Understand Your Exposure",
+  "onboardingDesc4": "Track your Personal Exposure Index (PEI), view exposure timelines, and generate detailed PDF health reports.",
+  "btnSkip": "Skip",
+  "btnNext": "Next",
+  "btnGetStarted": "Get Started",
+
+  "authSignInTitle": "Welcome Back",
+  "authSignInSubtitle": "Sign in to track your personal smoke exposure index",
+  "authSignUpTitle": "Create Account",
+  "authSignUpSubtitle": "Join SmokeGuard for a healthier smoke-free environment",
+  "authEmailLabel": "Email Address",
+  "authPasswordLabel": "Password",
+  "authConfirmPasswordLabel": "Confirm Password",
+  "authForgotPassword": "Forgot Password?",
+  "authSignInBtn": "Sign In",
+  "authSignUpBtn": "Create Account",
+  "authOr": "OR",
+  "authGoogleSignIn": "Continue with Google",
+  "authPhoneOtp": "Sign In with Phone OTP",
+  "authDemoModeBtn": "Quick Demo Login (No Account Required)",
+  "authNoAccount": "Don't have an account?",
+  "authHaveAccount": "Already have an account?",
+  "authPhoneTitle": "Phone Verification",
+  "authPhoneSubtitle": "We will send a 6-digit verification code to your mobile number",
+  "authPhoneInputLabel": "Phone Number (+91 ...)",
+  "authSendOtp": "Send Verification Code",
+  "authEnterOtp": "Enter 6-digit Code",
+  "authVerifyOtp": "Verify & Continue",
+  "authResendOtp": "Resend Code",
+  "authResetPasswordTitle": "Reset Password",
+  "authResetPasswordSubtitle": "Enter your email to receive a password reset link",
+  "authSendResetLink": "Send Reset Link",
+  "authResetSuccess": "Password reset email sent! Check your inbox.",
+
+  "navHome": "Home",
+  "navExposure": "Exposure",
+  "navAnalytics": "Analytics",
+  "navAwareness": "Awareness",
+  "navProfile": "Profile",
+
+  "statusNormal": "Normal Air",
+  "statusPossibleSmoke": "Possible Tobacco Smoke",
+  "statusModerateExposure": "Moderate Smoke Exposure",
+  "statusHighExposure": "High Exposure Detected",
+
+  "confidenceEstimate": "AI Confidence: {percent}% (estimate)",
+  "@confidenceEstimate": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+
+  "peiScoreTitle": "Today's Exposure Score",
+  "peiScoreDisclaimer": "Not a validated medical score.",
+
+  "pm25": "PM2.5",
+  "vocGas": "VOC/Gas Index",
+  "temperature": "Temperature",
+  "humidity": "Humidity",
+
+  "btnConnectDevice": "Connect Wearable",
+  "btnStartCalibration": "Start Calibration",
+  "calibrationCleanAirInstruction": "Keep the device in clean air during calibration.",
+
+  "feedbackPrompt": "Was this Tobacco Smoke?",
+  "feedbackYes": "Yes",
+  "feedbackNo": "No",
+  "feedbackThanks": "Thanks for helping improve SmokeGuard.",
+
+  "ttsAlertEn1": "Warning: Tobacco smoke detected nearby. Please maintain a safe distance.",
+  "ttsAlertEn2": "Passive smoking may be harmful to your health. Consider moving to a smoke-free area.",
+  "ttsAlertEn3": "Smoke levels are elevated. Please keep your distance.",
+
+  "ttsAlertHi1": "चेतावनी: आपके आसपास तंबाकू का धुआँ पाया गया है। कृपया सुरक्षित दूरी बनाए रखें।",
+  "ttsAlertHi2": "पैसिव स्मोकिंग स्वास्थ्य के लिए हानिकारक हो सकती है। कृपया धुएँ से दूर रहें।",
+  "ttsAlertHi3": "धूम्रपान का धुआँ पाया गया है। कृपया सुरक्षित स्थान पर जाएँ।"
+}
